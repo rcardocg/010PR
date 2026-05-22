@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -o lab main.c utils.c fifo.c min.c lru.c summary.c
